@@ -1,5 +1,5 @@
 # **My-Portfolio**
-# denne side er lavet til at omtale de ting jeg har lært.
+## denne side er lavet til at omtale de ting jeg har lært.
 
 **Uddannelse**
 *Datatekniker med speciale i infrastruktur*
@@ -14,19 +14,22 @@ for at summerer hvad jeg har arbejdet med.
 * C#
 ```
 Console.WriteLine("som exemple er dette en kommando til at skrive en linge text hvorefter texten flytter sig en linje ned");
+//samt en ReadKey så programmet ikke lukker ned lige med det samme
+Console.ReadKey();
 ```
 * Visual Studio 2022
 
-jeg har gennemført en liste af projekter på GF2 så som.
+jeg har gennemført en liste af opgaver på GF2 så som.
 * kodnings eksamen
 * OS eksamen
 * Netværks eksamen
 * GF2 afgangseksamen
+samt andre opgaver som hvordan man opsætter forskellige netværk
 
 i GF1 skulle jeg dokumenterer mit arbejde på google sites, nedenstående link er til den site
 * https://sites.google.com/d/1UaXWi-kISfxLqTTx-5LJVRwpAUHVi4ct/p/1qacAGH9sSLnlK5Xwn9PFcjQOk8uFmrZt/edit
 
-**emner jeg vil blive kloger på**
+## emner jeg vil blive kloger på
 * C#
   jeg vil lære at kode mere i C# eller andre uddannelses relevante kode sprog og flere måder at programmerer på så jeg kan kode i mere en bare kommandopromten
 * Netværk
@@ -36,7 +39,7 @@ i GF1 skulle jeg dokumenterer mit arbejde på google sites, nedenstående link e
   * generel forklaring
     jeg har ikke nogle helt specifikke faglige evner jeg ville træne andet en netværk fordi jeg er klar over at uden set hvad jeg lære om mit fagområde vil det hjælpe mig med at blive beder til hvad jeg gør.
 
-    ***Fremtidige mål***
+## Fremtidige mål
 *   [x] lære hvordan man opsætter netværk samt at kunne gøre det i Praksis
 *   [x] lære basis af hvordan man bruger C#
 *   [x] at kunne opstille virtuelle pc'er samt forberede til brug
@@ -44,4 +47,4 @@ i GF1 skulle jeg dokumenterer mit arbejde på google sites, nedenstående link e
 *   [ ] få en komplet basis forståelse af hvordan man opsætter og vedligeholder et netværk
 *   [ ] få en komplet basis forståelse af administration af server og bruger via digitale værktøjer
 *   [ ] blive beder til at kode i C#
-*   [ ] få komplet forståelse af hvordan man koder i power-shell
+*   [ ] få komplet forståelse af hvordan man scripter i power-shell
