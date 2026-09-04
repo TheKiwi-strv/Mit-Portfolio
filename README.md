@@ -41,7 +41,7 @@ i GF1 skulle jeg dokumenterer mit arbejde på google sites, nedenstående link e
 *   [x] lære basis af hvordan man bruger C#
 *   [x] at kunne opstille virtuelle pc'er samt forberede til brug
 *   [x] at kunne opsætte en DHCP server
-*   [] få en komplet basis forståelse af hvordan man opsætter og vedligeholder et netværk
-*   [] få en komplet basis forståelse af administration af server og bruger via digitale værktøjer
-*   [] blive beder til at kode i C#
-*   [] få komplet forståelse af hvordan man koder i power-shell
+*   [ ] få en komplet basis forståelse af hvordan man opsætter og vedligeholder et netværk
+*   [ ] få en komplet basis forståelse af administration af server og bruger via digitale værktøjer
+*   [ ] blive beder til at kode i C#
+*   [ ] få komplet forståelse af hvordan man koder i power-shell
