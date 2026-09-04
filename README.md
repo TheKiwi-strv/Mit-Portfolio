@@ -8,7 +8,7 @@ jeg har nogle forskellige faglige interesser så som kodning i C# og opsætning 
 
 i C# eksperimenter jeg lidt med flere forskellige programmer inden for konsol programmering samt har jeg allerede lavet en stor mængde af bestillings programmer i GF2.
 jeg har også lavet en del i Cisco Parcket Tracer hvor jeg har haft opstillet flere forskellige netværk med en eller flere- pc'er, router, switches, WIFI, DHCP server samt ipv4 og ipv6. jeg har fejlfundet på netværk som jeg har og ikke har haft lavet, har installeret både Windows 10-11 på en virtuel maskine via Hyper V samt en fysisk maskine. jeg har lært at programmere i C# og har også lavet programmer i C# ved brug af Visual Studio 2022.
-for at summerer hvad jeg har arbejdet med.
+**for at summerer hvad jeg har arbejdet med.**
 * Cisco Packet Tracer
 * Hyper V
 * C#
@@ -19,7 +19,7 @@ Console.ReadKey();
 ```
 * Visual Studio 2022
 
-jeg har gennemført en liste af opgaver på GF2 så som.
+**jeg har gennemført en liste af opgaver på GF2 så som.**
 * kodnings eksamen
 * OS eksamen
 * Netværks eksamen
